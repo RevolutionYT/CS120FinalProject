@@ -146,7 +146,7 @@ def main():
         #7
         nodeList.append( Node(
             "Item #2" ,
-            ["Vibrator" ,
+            ["Teddy Bear" ,
              "Descrption: Even creepy places can feel eerily normal"] ,
             "Bedroom", 6,
             "Hallway", 5,
@@ -252,8 +252,8 @@ def main():
         #18
         nodeList.append( Node(
             "Item #6" ,
-            ["Whip Descrption: Try not to think" ,
-             "about what this is used for too much"] ,
+            ["Hole Descrption: Somehow you can pick" ,
+             "up a completly empty area"] ,
             "Bedroom", 17,
             "Sleep", 19,
             "Hallway", 13,
